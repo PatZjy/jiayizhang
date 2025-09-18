@@ -1,16 +1,11 @@
 ---
-layout: page   # 或 single
-title: "CV"
+layout: single
+title: "CV/Resume"
 permalink: /cv/
 author_profile: true
+author: yourname
 ---
 
-[Download CV (PDF)]({{ "/files/cv.pdf" | relative_url }})
-
-<object data="{{ "/files/cv.pdf" | relative_url }}" type="application/pdf" width="100%" height="900px">
-  <p>Your browser can’t display PDFs inline.
-  <a href="{{ "/files/cv.pdf" | relative_url }}">Click here to download the CV.</a></p>
-</object>
-
+Here is a [link](/files/cv.pdf) to my CV.
 
 
