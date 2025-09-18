@@ -8,7 +8,7 @@ toc: false
 
 # Welcome! This is Jiayi Zhang.
 
-I’m a Ph.D. student in Supply Chain, Operations, and Technology at the Olin Business School, Washington University in St. Louis (WashU). I’m fortunate to be advised by Prof. [Dennis Zhang](http://denniszhang.org/).. 
+I’m a Ph.D. student in Supply Chain, Operations, and Technology at the Olin Business School, Washington University in St. Louis (WashU). I’m fortunate to be advised by Prof. [Dennis Zhang](http://denniszhang.org/). 
 
 My research interests include Digital Platforms and Marketplaces, Large Language Models and Their Applications, and OM–Marketing Interface.
 
