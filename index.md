@@ -28,14 +28,14 @@ My research interests include Digital Platforms and Marketplaces, Large Language
 
 ## Conference Presentations
 - **Bias in Offline Retailing Experiment: Evidence and Solution**
-  - INFORMS Annual Meeting — Atlanta, GA (2025, Scheduled)
-  - POMS Annual Meeting — Atlanta, GA (2025)
+  - INFORMS Annual Meeting — Atlanta, GA, 2025 (Scheduled)
+  - POMS Annual Meeting — Atlanta, GA, 2025
 
 ---
 
 ## Teaching
 **Teaching Assistant** — Washington University in St. Louis
-- Global Supply Chain (EMBA), FL 2025  
+- SCOT7460 Global Supply Chain (EMBA), FL 2025  
 
 ---
 
