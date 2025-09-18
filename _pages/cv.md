@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: page   # 或 single
 title: "CV"
 permalink: /cv/
+author_profile: true
 ---
 
 [Download CV (PDF)]({{ "/files/cv.pdf" | relative_url }})
@@ -10,5 +11,6 @@ permalink: /cv/
   <p>Your browser can’t display PDFs inline.
   <a href="{{ "/files/cv.pdf" | relative_url }}">Click here to download the CV.</a></p>
 </object>
+
 
 
