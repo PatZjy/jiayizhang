@@ -11,7 +11,7 @@ I’m a Ph.D. student in Supply Chain, Operations, and Technology at the Olin Bu
 
 My research interests include Digital Platforms and Marketplaces, Large Language Models and Their Applications, and OM–Marketing Interface.
 
----
+--- 
 
 ## Education
 - Ph.D. in Supply Chain, Operations, and Technology, Washington University in St. Louis, 2024 – Present  
