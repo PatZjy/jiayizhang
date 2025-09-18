@@ -1,9 +1,9 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: ""
+title: "Home"
 title_separator: "-"
-name: "Jiayi Zhang"
+name: "Jiayi Zhang (张佳仪)"
 description: "PhD Student in Operations & Manufacturing Management, Olin Business School, Washington University in St. Louis"
 url: "https://jiayizhang1227.com"
 baseurl: ""
