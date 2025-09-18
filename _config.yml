@@ -5,8 +5,8 @@ title: "Home"
 title_separator: "-"
 name: "Jiayi Zhang (张佳仪)"
 description: "PhD Student in Operations & Manufacturing Management, Olin Business School, Washington University in St. Louis"
-url: "https://jiayizhang1227.com"
-baseurl: ""
+url: "https://patzjy.github.io"   # 不要带尾部斜杠
+baseurl: "/jiayizhang"            # 注意有斜杠，且是你的仓库名
 repository: "PatZjy/PatZjy.github.io"
 
 # Sidebar / Author
