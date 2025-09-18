@@ -3,7 +3,7 @@ layout: single
 title: "CV/Resume"
 permalink: /cv/
 author_profile: true
-author: yourname
+author: yourname 
 ---
 
 Here is a [link](/files/cv.pdf) to my CV.
