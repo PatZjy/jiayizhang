@@ -9,60 +9,37 @@ toc: false
 
 # Welcome! This is Jiayi Zhang.
 
-I’m a Ph.D. student in **Operations & Manufacturing Management** at the Olin Business School, Washington University in St. Louis (WashU).  
-My research interests include **retailing experiments**, **discrete choice**, and **machine learning for causal inference** (e.g., product-based randomization, SP-MNL, double machine learning).
-
-> 📬 Contact: `jiayizhang@wustl.edu` · St. Louis, MO  
-> 🔗 Links are set in `_config.yml` (Google Scholar, GitHub, LinkedIn). Update them there.
+I’m a Ph.D. student in Supply Chain, Operations, and Technology at the Olin Business School, Washington University in St. Louis (WashU). I’m fortunate to be advised by Prof. "http://denniszhang.org/". My research interests include Digital Platforms and Marketplaces, Large Language Models and Their Applications, and OM–Marketing Interface.
 
 ---
 
 ## Education
-- **Ph.D., Operations & Manufacturing Management**, Washington University in St. Louis, *Year–Present*  
-- *(Optional)* **M.S./M.A.**, Program, School, *Year–Year*  
-- *(Optional)* **B.S.**, Major, School, *Year–Year*
+- Ph.D. in Supply Chain, Operations, and Technology, Washington University in St. Louis, 2024–Present  
+- B.S. in Mathematics and Economics, The Hong Kong University of Science and Technology, 2020–2024
 
 ---
 
 ## Research
 
-### Working Papers
-1. **Bias in Offline Retailing Experiments: Product-Side Randomization and Global Treatment Effects** *(working paper)*  
-   - Methods: SP-MNL framework, debiased estimation, deep-learning nuisance models.  
-   - Draft / Slides / Code: *(add links if available)*
-
-2. **Matching Chicago Taxi and TNP Trips via Street-Level Spatial Matching** *(working paper)*  
-   - Methods: Voronoi cells on intersections, DBSCAN clustering, ratio-based extreme-case filtering.  
-   - Data & Pipeline: BigQuery, DuckDB, Python/R.  
-
 ### Work in Progress
-- **LLM Evaluation & Performance Prediction**: task-level metrics, construct-oriented evaluation, predictive model selection.  
-- *(Add your other projects here…)*
+1. Bias in Offline Retailing Experiment: Evidence and Solution, with Zhiqi Zhang, Ruohan Zhan, Dennis Zhang.
 
 ---
 
 ## Conference Presentations
-- *(Add confirmed talks only; examples below)*  
-- POMS / INFORMS / ISMS Marketing Science, *Year*, *City* — *Paper/Project Title*  
-- Department/Area seminar, *Year*, *Host* — *Paper/Project Title*
+- **Bias in Offline Retailing Experiment: Evidence and Solution**  
+- INFORMS Annual Meeting, Atlanta, GA, 2025 (Scheduled)  
+- POMS Annual Meeting, Atlanta, GA, 202
 
 ---
 
 ## Teaching
-**Teaching Assistant — Washington University in St. Louis**
-- *(Course name)* — *(UG/Master/PhD)*, *Term & Year*  
-- *(Course name)* — *(UG/Master/PhD)*, *Term & Year*
+**Teaching Assistant** — Washington University in St. Louis
+- Global Supply Chain (EMBA), FL 2025  
 
 ---
 
 ## News
-- *YYYY-MM*: Paper *Title* updated; new draft available.  
-- *YYYY-MM*: Presented at *Conference*.  
-- *YYYY-MM*: Won *award/recognition* (if any).
+- September 2025: I will present my research “Bias in Offline Retailing Experiment: Evidence and Solution” at the INFORMS 2025 Annual Meeting. The presentation is scheduled for Monday, October 27, from 1:15 PM to 1:30 PM, in Building B, Level 3, Room B313a. You are warmly welcome to attend if you are interested.
 
 ---
-
-### How to customize quickly
-- 文本：直接在本页改段落与条目。  
-- 链接：在 `_config.yml` 的 `author` 部分填上 `googlescholar`、`github`、`linkedin` 等。  
-- 简历页：把 `files/cv.pdf` 上传，然后在导航点 **CV** 下载即可。
