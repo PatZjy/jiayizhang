@@ -2,11 +2,10 @@
 layout: single
 permalink: /
 author_profile: true
+title: "Welcome! This is Jiayi Zhang."
 # 如果想要右侧目录，改为 toc: true 且 toc_sticky: true
 toc: false
 ---
-
-## Welcome! This is Jiayi Zhang.
 
 I’m a Ph.D. student in Supply Chain, Operations, and Technology at the Olin Business School, Washington University in St. Louis (WashU). I’m fortunate to be advised by Prof. [Dennis Zhang](http://denniszhang.org/). 
 
