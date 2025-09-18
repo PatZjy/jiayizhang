@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Home"
 permalink: /
 author_profile: true
 # 如果想要右侧目录，改为 toc: true 且 toc_sticky: true
