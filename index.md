@@ -35,7 +35,7 @@ My research interests include Digital Platforms and Marketplaces, Large Language
 
 ## Teaching
 **Teaching Assistant** — Washington University in St. Louis
-- SCOT7460 Global Supply Chain (EMBA), FL 2025  
+- SCOT 7460 Global Supply Chain (EMBA), FL 2025  
 
 ---
 
