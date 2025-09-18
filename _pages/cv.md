@@ -6,6 +6,6 @@ author_profile: true
 author: yourname
 ---
 
-Here is a [link](/files/cv.pdf) to my CV.
+Here is a [link](/files/CV.pdf) to my CV.
 
 
