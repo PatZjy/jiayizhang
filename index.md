@@ -40,6 +40,6 @@ My research interests include Digital Platforms and Marketplaces, Large Language
 ---
 
 ## News
-- *September 2025*: I will present my research “Bias in Offline Retailing Experiment: Evidence and Solution” at the INFORMS 2025 Annual Meeting. The presentation is scheduled for Monday, October 27, from 1:15 PM to 1:30 PM, in Building B, Level 3, Room B313a. You are warmly welcome to attend if you are interested.
+- *September 2025*: I will present my research “Bias in Offline Retailing Experiment: Evidence and Solution” at the INFORMS 2025 Annual Meeting. The presentation is scheduled for Monday, October 27, from 1:15 PM to 2:30 PM, in Building B, Level 3, Room B313a. You are warmly welcome to attend if you are interested.
 
 ---
