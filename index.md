@@ -15,8 +15,8 @@ My research interests include Digital Platforms and Marketplaces, Large Language
 
 ## Education
 - Ph.D. in Supply Chain, Operations, and Technology, Washington University in St. Louis, 2024 – Present  
-- B.S. in Mathematics and Economics, The Hong Kong University of Science and Technology, 2020 – 2024
-
+- B.S. in Mathematics and Economics, Hong Kong University of Science and Technology, 2020 – 2024
+- Exchange Student, University of Notre Dame, 2023
 ---
 
 ## Research
@@ -28,7 +28,7 @@ My research interests include Digital Platforms and Marketplaces, Large Language
 
 ## Conference Presentations
 - **Bias in Offline Retailing Experiment: Evidence and Solution**
-  - INFORMS Annual Meeting — Atlanta, GA, 2025 (scheduled)
+  - INFORMS Annual Meeting — Atlanta, GA, 2025
   - POMS Annual Meeting — Atlanta, GA, 2025
 
 ---
