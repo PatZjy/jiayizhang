@@ -23,6 +23,7 @@ My research interests include Digital Platforms and Marketplaces, Large Language
 
 ### Work in Progress
 1. Bias in Offline Retailing Experiment: Evidence and Solution, with Zhiqi Zhang, Ruohan Zhan, Dennis Zhang.
+2. Evaluating Large Language Model Agents: A Statistical Framework for Reliable Performance Inference, with Mengxin Wang, Dennis Zhang.
 
 ---
 
